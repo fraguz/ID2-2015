@@ -1,0 +1,8 @@
+![](https://github.com/fraguz/ID2-2015/blob/68c68f511b547350ce925db3ac2b2167a39fc916/3_dataphys/Francesca/Pecha%20Kucha%201-01.jpg?raw=true)
+![](https://github.com/fraguz/ID2-2015/blob/68c68f511b547350ce925db3ac2b2167a39fc916/3_dataphys/Francesca/Pecha%20Kucha%201-02.jpg?raw=true)
+![](https://github.com/fraguz/ID2-2015/blob/68c68f511b547350ce925db3ac2b2167a39fc916/3_dataphys/Francesca/Pecha%20Kucha%201-03.jpg?raw=true)
+![](https://github.com/fraguz/ID2-2015/blob/68c68f511b547350ce925db3ac2b2167a39fc916/3_dataphys/Francesca/Pecha%20Kucha%201-04.jpg?raw=true)
+![](https://github.com/fraguz/ID2-2015/blob/68c68f511b547350ce925db3ac2b2167a39fc916/3_dataphys/Francesca/Pecha%20Kucha%201-05.jpg?raw=true)
+![](https://github.com/fraguz/ID2-2015/blob/68c68f511b547350ce925db3ac2b2167a39fc916/3_dataphys/Francesca/Pecha%20Kucha%201-06.jpg?raw=true)
+![](https://github.com/fraguz/ID2-2015/blob/68c68f511b547350ce925db3ac2b2167a39fc916/3_dataphys/Francesca/Pecha%20Kucha%201-07.jpg?raw=true)
+![](https://github.com/fraguz/ID2-2015/blob/68c68f511b547350ce925db3ac2b2167a39fc916/3_dataphys/Francesca/Pecha%20Kucha%201-08.jpg?raw=true)

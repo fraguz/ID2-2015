@@ -9,7 +9,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-## 11 - 12 Marzo
+## W1
 ###Introduzione. _Digital Art and Meaning._
 
 ![Vectorial Elevation, 1999, Rafael Lozano-Hemmer](http://i.imgur.com/BNxP95K.jpg?1) ![Urban/Mexico City, 2007, Spencer Tunick](http://i.imgur.com/XHkkirH.jpg?1)  
@@ -42,7 +42,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-##18 - 19 Marzo
+##W2
 ###_Data: big, little, no, open. Mapping art._
 
 ![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![The Source, 2004, Greyworld](http://i.imgur.com/kPVYKuO.jpg?1)
@@ -75,7 +75,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-##26 Marzo
+##W3
 ###_Digital Art and Meaning: close reading._
 
 ![The Secret Lives of Numbers, 2002, Golan Levin+](http://i.imgur.com/qDrLG5X.jpg?1) ![Bio Mapping / Emotion Mapping_, 2004+, Christian Nold](http://i.imgur.com/I7IOGP9.jpg?1) ![Listening Post, 2000+, Mark H_ansen & Ben Rubin](http://i.imgur.com/L9etHPR.jpg?1)
@@ -95,13 +95,16 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-##2 Aprile
+##W4
+###_Approfondire._
 
 ![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1)![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/086ew8k.jpg?1)
 
 
 ### 
 - consegna **dataset**
+
+------
 
 ###### compito/approfondire
 1. _Artistic Data Visualization: Beyond Visual Analytics_, Fernanda B. Viégas & Martin Wattenberg [+](http://hint.fm/papers/artistic-infovis.pdf)
@@ -113,7 +116,8 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-## 8 - 9 Aprile
+## W5
+###_Presentazioni e confronto._
 
 ### 
 - presentazione e discussione **dataset** e idee **dataviz**
@@ -121,6 +125,8 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### Lab 4
 - dati Vs Processing
 - prototipi **dataviz** in Processing
+
+------
 
 ###### compito/lettura critica
 1. progetto **dataset** e idee **dataviz** di un compagno dato
@@ -132,7 +138,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-## 22 - 23 Aprile
+## W6
 ###_Visualize in Processing._
 
 ![Valence, 1999, Ben Fry](http://i.imgur.com/WMIEi1a.jpg?1) ![Genome Valence, 2002, Ben Fry](http://i.imgur.com/fF4a0Qs.jpg?1) ![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1)
@@ -145,15 +151,77 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - prototipi **dataviz** in Processing
 - Arduino Vs. Processing
 
+------
+
 ###### compito/progetto
 1. prototipo/i finale **dataviz** in Processing
 2. eventuali prototipo/i finale **dataviz** in grafica
 
+###### compito/approfondire
+1. _Visualizing Information for Advocacy_, [+](https://visualisingadvocacy.org/getbook)
+2. _Data + Design_, [+](https://infoactive.co/data-design)
 
 
 
 
+## W7
+###_Narrazione e contesto._
 
--------
+### 
+- il brief, la location, la narrazione per il progetto d'arte
+- presentazione e discussione **dataviz** e idee **dataphys**
 
-_in progress_
+### Lab 6
+- librerie Processing: controlP5.
+- code _drawingorigami2.pde_ [+](https://github.com/Fupete/drawing-tools-processing-leap-2014/blob/master/drawingorigami2/drawingorigami2.pde)
+- prototipi **dataviz** in Processing e grafica
+
+------
+
+###### compito/progetto
+1. consegna finale **dataviz** in Processing (caricare pde e schermate/video)
+2. consegna prototipo/i finale **dataviz** in grafica
+ 
+
+
+
+##W8
+###_Monument._
+
+![Monument, 2006+, Caleb Larsen](http://i.imgur.com/8PHa7mG.jpg?1)
+
+- _Monument_, 2006+, Caleb Larsen [+](http://www.podcast-directory.co.uk/episodes/monument-if-it-bleeds-it-leads-caleb-larsen-15152482.html) [+](http://caleblarsen.com/monument/)
+
+### Lab 7
+- consegna e analisi prototipi **dataviz**, in Processing e grafica
+- **dataphys**, prototipi, metodologia e obiettivi
+- _documentazione finale_: condivisione di strumenti e obiettivi
+
+------
+
+###### compito/lettura critica*
+1a. Yukikaze, 2007, INCAMS - 1b. Hover, 2014, VV.AA.   
+2a. 2b.  
+3a. 3b.  
+4a. 4b.    
+5a. 5b.  
+6a. 6b.  
+7a. 7b.  
+
+(* _scelti dalle proprie referenze dei progetti di **dataphys**_)
+
+###### compito/progetto
+1. idee e prototipi **dataphys**
+
+
+
+##W9-11
+###_Lab._
+- **dataphys**, prototipi
+
+
+
+##W12
+###_Doc._
+- **works**, documentazione
+
