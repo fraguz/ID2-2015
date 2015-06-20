@@ -16,18 +16,17 @@
 - data: google fogli, openrefine, raw, plot.ly, xml, JSON
 - code: processing, {js, p5js, d3, html5, css}
 - altri: {sublimetext, cyberduck, chrome, firefox, strumenti sviluppatori, ...}
+- phys: {arduino, ar, wood, plastic, liquids, servo, leds...}
 
 ##### PER DOCUMENTARE
 - markdown su github
 - processing to img/pdf/video
 - {d3 to svg tools}
+- camera / video
+- indesign
 
 ### Letture critiche
 
 1.  **_cosa è_**
 2.  **_cosa potrebbe significare_**  
 3.  **_come funziona_**  
-
-------
-
-_in progress_
