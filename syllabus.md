@@ -9,7 +9,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-## 11 - 12 Marzo
+## W1
 ###Introduzione. _Digital Art and Meaning._
 
 ![Vectorial Elevation, 1999, Rafael Lozano-Hemmer](http://i.imgur.com/BNxP95K.jpg?1) ![Urban/Mexico City, 2007, Spencer Tunick](http://i.imgur.com/XHkkirH.jpg?1)  
@@ -42,7 +42,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-##18 - 19 Marzo
+##W2
 ###_Data: big, little, no, open. Mapping art._
 
 ![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![The Source, 2004, Greyworld](http://i.imgur.com/kPVYKuO.jpg?1)
@@ -75,7 +75,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-##26 Marzo
+##W3
 ###_Digital Art and Meaning: close reading._
 
 ![The Secret Lives of Numbers, 2002, Golan Levin+](http://i.imgur.com/qDrLG5X.jpg?1) ![Bio Mapping / Emotion Mapping_, 2004+, Christian Nold](http://i.imgur.com/I7IOGP9.jpg?1) ![Listening Post, 2000+, Mark H_ansen & Ben Rubin](http://i.imgur.com/L9etHPR.jpg?1)
@@ -95,7 +95,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-##2 Aprile
+##W4
 ###_Approfondire._
 
 ![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1)![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/086ew8k.jpg?1)
@@ -116,7 +116,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-## 8 - 9 Aprile
+## W5
 ###_Presentazioni e confronto._
 
 ### 
@@ -138,7 +138,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-## 22 - 23 Aprile
+## W6
 ###_Visualize in Processing._
 
 ![Valence, 1999, Ben Fry](http://i.imgur.com/WMIEi1a.jpg?1) ![Genome Valence, 2002, Ben Fry](http://i.imgur.com/fF4a0Qs.jpg?1) ![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1)
@@ -164,7 +164,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-## 29 - 30 Aprile
+## W7
 ###_Narrazione e contesto._
 
 ### 
@@ -185,7 +185,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-##6 - 7 Maggio
+##W8
 ###_Monument._
 
 ![Monument, 2006+, Caleb Larsen](http://i.imgur.com/8PHa7mG.jpg?1)
@@ -214,6 +214,14 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 1. idee e prototipi **dataphys**
 
 
--------
 
-_in progress_
+##W9-11
+###_Lab._
+- **dataphys**, prototipi
+
+
+
+##W12
+###_Doc._
+- **works**, documentazione
+
