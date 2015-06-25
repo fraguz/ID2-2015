@@ -10,6 +10,8 @@
 // Il file rappresenta visivamente le categorie richiamate o meno nel tempo che passa
 // Ogni riga della rappresentazione è una categoria di applicazione sociale all'interno di internet
 // In questo caso una sola categoria serve per comunicare i dati con Arduino in modo da passare no corrente ai pin
+// QUESTO FILE SERVE PER COMUNICARE CON I DATI DEL FILE "DATAPHYS ARDUINO" 
+// https://github.com/arraboy/ID2-2015/blob/master/3_dataphys/Gian/code/Dataphys_Arduino.ino
 
 // —
 
