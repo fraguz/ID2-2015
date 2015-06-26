@@ -81,22 +81,15 @@ void setup() {
   frameRate (60) ; // frame al secondo
 } // end set up
 
-
 void draw() {
 
   sec+=vel; // variabile di incremento
 
-
-
   float VOL_temporeale = in.right.level();
   Valori[sec-1] = VOL_temporeale;
 
-
-
   if (sec == 60) { 
     timer++;
-
-
 
     VOL = 0;
     for (int i=0; i<60; i++) {
@@ -119,10 +112,6 @@ void draw() {
     // STRINGA VALORI INPUT PRIMA E DOPO LA MAPPATURA
 
    // println (volume+"    "+media) ; // valori VOL mappato
-
-
-
-
 
     // DIMENSIONAMENTO RAGGIO
     float x = size/2 + cos (angle) * volume; // variazione x 
@@ -154,8 +143,6 @@ void draw() {
     timer=0;
     media=0;
   }
-
-
 
   // RIGENERA NON RIGENERA
   if (min > 60) {
