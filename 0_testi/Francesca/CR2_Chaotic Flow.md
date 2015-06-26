@@ -26,7 +26,6 @@ Illutron had access to the city database and worked with the dataset on city bik
 The colored liquids that flow through the transparent tubes represent the flow of the bikes in the city. This is the result of three stages: in the first place those numbers were real bikes and bikers, then they became numbers and, after Illutron handled them, they came back again to the physic realm but in an abstract way, transformed in fluids.
 The installation was not only visual but also sounded with registrations of mechanical parts of a moving bycicle tooken by the authors themselves. Those sounds were audible with headphones placed under the installation.
 
-
 #####How it works
 The real deal was competing with daylight because, in the place chosen for the installation, transparent liquids were not easy to show from distance.
 So they came up with the choice of using lots of colors which were easier to show in a proper way and represented bike fluxes better.
@@ -60,7 +59,6 @@ actual interaction, a concrete one.
 To discover their works [click here] (http://illutron.dk/filter/showcase/)
 
 #####Similar workpieces
-
 ######eCLOUD, 2007 and airFIELD, 2012: Ambient Airport Visualizations by Dan Goods, Nik Hafermaas and Aaron Koblin
 
 ![] (http://www.ecloudproject.com/images/index_01.jpg)
