@@ -2,6 +2,7 @@
 
 by Addie Wagenknecht, 2013
 
+
 ###1 - What is it?
 
 #####Description by the author
@@ -31,7 +32,6 @@ Addie Wagenknecht is an American artist based in Austria. Her work deals primari
 Wagenknecht is a member of Free Art & Technology (F.A.T.) Lab, Taco Bell Drawing Club and is the Chair of the Open Hardware Summit at MIT. Wagenknecht also co-produced the open source laser cutter Lasersaur. Most recently she founded Deep Lab under a Warhol Foundation Grant. She also serves on the board for the Open Source Hardware Association. 
 
 #####Similar workpieces
-
 ######Database, Tobias Zimmer, 2014
 
 ![] (http://38.media.tumblr.com/7d49c48fa96160f136b9092ecba40eea/tumblr_nmpcc2Mh9K1qav3uso5_r1_540.gif)
@@ -68,6 +68,6 @@ It is a portrait of the future. Technologies will be self-referenced and will ac
 
 ###4 - What if
 
-since this art piece deals with data, it might be interesting to visualize them. I am aware of the intent of not sharing them, but it would be even more complete if the artist had chosen to show them not as they are, strings or numbers, but in a physical way, still not comprehensible: an example might be the server look alike sculpture produces little dark spheres as it collects data and stores them near the installation to show the volume of the information collected.
+Since this art piece deals with data, it might be interesting to visualize them. I am aware of the intent of not sharing them, but it would be even more complete if the artist had chosen to show them not as they are, strings or numbers, but in a physical way, still not comprehensible: an example might be the server look alike sculpture produces little dark spheres as it collects data and stores them near the installation to show the volume of the information collected.
 
  
