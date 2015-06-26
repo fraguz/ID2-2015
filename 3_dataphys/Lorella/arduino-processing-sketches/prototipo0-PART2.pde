@@ -1,26 +1,15 @@
-//
-// NOISE VIBRANCY VISUALIZER
-// © Daniele @ Fupete for the course ID2-2015 @ UnirSM
-// github.com/fupete
-// Made for educational purposes, MIT License, May 2015, San Marino
-// 
+ // mouseover serial
 
-/*
- * PART 2 - SEND DATA TO ARDUINO
- * Settings to communicate with Arduino.
- * Data you are sending is the float "volume"
- *
- * REFERENCES
- * 'Physical Pixel' - Arduino Tutorials
- * arduino.cc/en/Tutorial/PhysicalPixel
- * by David A. Mellis
- * modified 30 Aug 2011
- * by Tom Igoe and Scott Fitzgerald
- *
- * thanks to Giuseppe D'Ambrosio
- *
- */
- 
+ // Demonstrates how to send data to the Arduino I/O board, in order to
+ // turn ON a light if the mouse is over a square and turn it off
+ // if the mouse is not.
+
+ // created 2003-4
+ // based on examples by Casey Reas and Hernando Barragan
+ // modified 30 Aug 2011
+ // by Tom Igoe
+ // This example code is in the public domain.
+
  import processing.serial.*;
 
  float boxX;
@@ -30,20 +19,22 @@
 
  Serial port;
 
- void arduino(float volume)
+ void arduino(float media)
  {
+ // float mappa=map(volume,0,290,190,255);
+ // port.write(byte(mappa));
 
-if(volume>0 && volume<60)
+if(media>10 && media<20)
  port.write('A');
-if(volume>60 && volume<120)
+if(media>20 && media<40)
  port.write('B');
- if(volume>120 && volume<180)
+ if(media>40 && media<60)
  port.write('C');
-if(volume>180 && volume<240)
+if(media>60 && media<80)
  port.write('D');
-if(volume>240 && volume<290)
- port.write('E'); 
+if(media>80 && media<120)
+ port.write('E');
+  
  
- } // end if
- 
+ }
  // FINALE + IMPOSTAZIONI DELLA COMUNICAZIONE CON ARDUINO
