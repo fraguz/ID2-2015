@@ -69,7 +69,7 @@ eCLOUD is an installation at the San Jose International Airport. It is made of m
 
 A similar installation called airFIELD was created by the same team few years later. It changes its shape synced with the air traffic and is installed at the Hartsfield-Jackson Atlanta International Airport.
 
-#####Pneumatic Charts, Hive Big Data Think Tank, 2013
+######Pneumatic Charts, Hive Big Data Think Tank, 2013
 
 ![] (http://dataphys.org/list/wp-content/uploads/2014/11/VisualizationPaloAltoHive.jpg)
 
