@@ -14,7 +14,7 @@ Il risultato erano una serie di vettori divergenti, con stesso punto di applicaz
 ![01](http://i.imgur.com/G3EZ2Q2.png?1)
 
 Per approfondimenti, si rimanda alla Visualizzazione 1 in 
-[Dataviz-1](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/dataviz-1.md).
+[Dataviz-1](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/Lorella/dataviz-1.md).
 
 --
 
