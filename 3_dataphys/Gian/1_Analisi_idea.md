@@ -1,9 +1,11 @@
-#METADATATELLING / Narrazione di relazioni digitali 
+#METADATA JUICE / Narrazione di relazioni digitali 
 -
 
 ###ABSTRACT
-Ogni persona ha una propria personalità che rispecchia nei gesti svolti nella realtà, dove questi ultimi possono dar vita a nuove relazioni con altri individui. Ma la presenza di un mondo informatico tende ad influenzare i nostri comportamenti, le nostre scelte, in una modalità criptata, che continua la propria attività in forma invisibile. La rete virtuale quindi plasma una nuova cultura e ne influenza le proprie caratteristiche che vivono in un secondo spazio nascosto ma parallelo con la realtà.
-Tramite il server universitario, il progetto ricerca così il carattere umano presente nelle relazioni mediate dal codice informatico e le cerca di metterle in evidenza facendo fuoriuscire l'enorme quantità di dati nel modo reale. Il progetto traduce in una rappresentazione tangibile e visiva, questa cultura digirale, attraverso le scelte, i comportamenti e le identità delle relazioni virtuali umane. 
+Ogni persona ha una propria personalità che si rispecchia nei gesti svolti nella realtà. Questi ultimi possono creare nuove relazioni con altri individui. Ma la presenza di un mondo informatico tende a influenzare i nostri comportamenti, le nostre scelte in una modalità criptata che continua la propria attività in forma invisibile. La rete virtuale quindi plasma una nuova cultura e ne influenza le proprie caratteristiche che vivono in un secondo spazio nascosto ma parallelo con la realtà.
+Tramite il server universitario, il progetto ricerca così il carattere umano presente nelle relazioni mediate dal codice informatico e le cerca di mettere in evidenza facendo fuoriuscire l'enorme quantità di dati nel modo reale. Il progetto traduce in una rappresentazione tangibile e visiva, questa cultura digitale, attraverso le scelte, i comportamenti e le identità delle relazioni virtuali umane.
+
+
 
 -
 -

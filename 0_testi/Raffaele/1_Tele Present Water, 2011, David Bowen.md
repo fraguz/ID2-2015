@@ -3,12 +3,12 @@
 ##What it is
 [Video: @ The National Museum in Wroclaw, Poland](https://vimeo.com/25781176)
 
-![Alt Text](http://www.dwbowen.com/tele_waterWRO(full).jpg)
+![Alt text](http://g.fastcompany.net/multisite_files/codesign/article_feature/1280-tele-waterfull.jpg)
 
 Questa installazione di David Bowen datata 2011 riproduce tramite una griglia quadrata i movimenti della superficie acquatica tramite l’elaborazione di alcuni dati. L’autore è solito lavorare raccogliendo dati dall’ambiente naturale per poi trasporli negli spazi espositivi tramite installazioni che riproducono appunto i comportamenti della natura oppure, nella maggior parte dei casi, tracciano dei segni. 
 Il suo lavoro cerca di trasformare ciò che è puramente naturale in installazioni meccaniche,  tecnologiche e interattive. Oltre a studiare i movimenti dell’acqua Bowen utilizza i dati riguardanti  il vento, le nuvole e i comportamenti di elementi naturali come piante o insetti.
 
-[Portfolio David Bowen](http://www.dwbowen.com/portfolio.html)
+[Altri lavori di David Bowen](http://www.dwbowen.com/work/)
 
 1.Acqua
   * [Underwater](http://www.dwbowen.com/underwater_series.html)
@@ -37,7 +37,7 @@ A mio modo di vedere Tele-Present Water può essere vista come una discretizzazi
 
 ##How it works
 
-![Alt Text](http://www.dwbowen.com/tele_waterWRO(mech).jpg) ![Alt Text](http://www.dwbowen.com/tele_waterIR(detail).jpg)
+![Alt Text](http://4.bp.blogspot.com/-c5eajTNCBGU/Ti3FiV-PzdI/AAAAAAAAAPM/kf4Wp-_XUDo/s1600/David+Bowen_5.jpg)
+![Alt Text](http://www.creativeapplications.net/wp-content/uploads/2011/07/telewater04.png) 
 
 Tele-Present Water raccoglie a distanza i dati relativi all’altezza e alla frequenza delle onde da stazioni galleggianti nel Lago Superiore in Minnesota o nell’Oceano Pacifico in questo caso con il contributo della National Oceanic and Atmospheric Administration. Questi dati vengono gestiti da un computer e utilizzando MAX/MSP e una scheda Arduino si vanno a controllare diversi motorini da 24V (il numero varia in base alla grandezza della griglia). Questi sono collegati tramite dei cavi alla griglia sottostante nei punti di intersezione della stessa. La superficie, composta da barre, va così a muoversi simulando, in maniera approssimata, il comportamento naturale della porzione di superficie acquatica.
-
