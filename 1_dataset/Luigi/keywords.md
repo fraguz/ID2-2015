@@ -1,7 +1,8 @@
 # Keywords
 
 ## Ipotesi data set
-Analizzando le diverse tipologie di dati reperibili all’interno della facoltà di Design di San Marino sono emersi i seguenti data set:
+Analizzando le diverse tipologie di dati reperibili all’interno della facoltà di Design di San Marino, sono emersi i seguenti possibili data set:
+
 ### Report sull’attività dei Corsi di laurea in Design
 >http://disegnoindustriale.unirsm.sm/media/documenti/unirsm_870.pdf
 
@@ -54,7 +55,7 @@ Un'altra tipologia di dati reperibili riguardanti gli studenti  sono reperibili 
 
 >https://unirsm.esse3.cineca.it/Home.do
 
-Il seguente link mostra il libretto on line dello studente mostrando le seguenti informazioni:
+Il seguente link mostra il libretto on line dello studente con le seguenti informazioni:
 -	Numero matricola
 -	Tipo di corso ( corso di laurea – corso di laurea magistrale)
 -	Stato (attivo-cessato)
@@ -64,7 +65,7 @@ Il seguente link mostra il libretto on line dello studente mostrando le seguenti
 -	Ecc…
  
 ### Concept
-Valutando i seguenti dati  una possibilità interessante sarebbe quella di dar voce ai temi più importanti discussi all’interno della facoltà, analizzando le parole chiave utilizzate dagli studenti per indicizzare le proprie tesi di laurea. Da questa prima carrellata di dati si potrebbero usare raggruppamenti relativi alla scelta dei corsi di studio percorsi durante la carriera universitaria a sua volta collegati con i docenti che hanno tenuto il relativo corso. Si renderebbe così  una possibile visione globale dei percorsi effettuati dagli studenti all’interno della facoltà fino a giungere al traguardo finale della tesi. Tali dati potrebbero risultare statici, ma si potrebbero enfatizzare mostrando l’andamento nel corso degli anni, creando una sorta di interattività che potrebbe portare alla scoperta di nuovi scenari, come ad esempio le possibili influenze legate al corrente anno, i temi emersi da studenti di prodotto  confrontati a quelli di comunicazione.
+Valutando i seguenti dati un'interessante strada da percorrere sarebbe quella di evidenziare i temi più importanti discussi all’interno della facoltà, analizzando le parole chiave utilizzate dagli studenti per indicizzare le proprie tesi di laurea. Da questa prima carrellata di dati si potrebbero usare raggruppamenti relativi alla scelta dei corsi di studio percorsi durante la carriera universitaria a sua volta collegati con i docenti che hanno tenuto il relativo corso. Si renderebbe così  una possibile visione globale dei percorsi effettuati dagli studenti all’interno della facoltà fino a giungere al traguardo finale della tesi. Tali dati potrebbero risultare statici, ma si potrebbe enfatizzarli, mostrando l’andamento di essi nel corso degli anni, creando una sorta di rappresentazione grafica che potrebbe portare alla scoperta di nuovi scenari, come ad esempio le possibili influenze legate al corrente anno, i temi emersi da studenti di prodotto  confrontati a quelli di comunicazione.
 
 
 ### Bozza

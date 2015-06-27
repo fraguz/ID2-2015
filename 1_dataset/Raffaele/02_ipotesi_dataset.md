@@ -1,0 +1,7 @@
+#Sustainable me
+
+L’idea è quella di utilizzare i dati relativi ai consumi in particolare quelli di **acqua, luce, carta e cibo** nei distributori automatici.
+Inoltre si potrebbero utilizzare anche i **dati del server** per vedere come consumiamo o sprechiamo in realtà le nostre connessioni inteso cioè quando ci connettiamo a siti non inerenti alle nostre attività universitarie, esempio i social network.
+Sfruttando questi dati sui consumi si potrebbero predisporre delle installazioni che **modificano noi stessi** in base a ciò che utilizziamo per evidenziare se i nostri comportamenti all’interno dell’università sono **sostenibili** o no. 
+L’effetto sarebbe simile a ciò che compiono gli specchi deformanti che possiamo trovare nei parchi giochi o nei luna park in cui abbiamo una visione distorta di noi stessi. Si potrebbero utilizzare delle superfici specchianti che cambiano forma: se utilizziamo troppe risorse ci fanno apparire più grassi ad esempio; oppure si potrebbero proiettare le nostre figure modificando le nostre forme. 
+Potremmo anche avere modificazioni diverse in base ai diversi tipi di consumo. Questo tipo di installazioni potrebbero essere poi supportate da una visualizzazione più particolareggiata, tramite display o app, delle risorse che utilizziamo durante un anno accademico. Il tutto porterebbe a una maggior consapevolezza e ad un resoconto di come il nostro comportamento cambia le quantità di risorse utilizzate.
