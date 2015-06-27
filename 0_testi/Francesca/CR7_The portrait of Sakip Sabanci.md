@@ -64,7 +64,7 @@ The artist himself stated _"I created a very large portrait but the very subject
 
 ###3 - What it could mean
 
-The portrait never revieal Sabanci's face, it shows the person on another level. This might be the humbling recognition of how we are all in many ways the sum of our encounters and experiences with others, displayed with technological media.
+The portrait never reveals Sabanci's face, it shows the person on another level. This might be the humbling recognition of how we are in many ways the sum of our encounters and experiences with others, displayed with technological media.
 
 
 ###4 - What if
@@ -73,6 +73,7 @@ The most beautiful and practical aspect of the work is that it can be disintegra
 The what if, this time, is: how about give a message in the meaning of the work itself, work with images, pixel to create a  deeper meaning beyond what I see?
 
 ###5- References
+
 [Kutluğ Ataman site project page](http://www.kutlugataman.com/site/artworks/work/254/)
 
 [Sapik Sabanci museum] (http://www.sakipsabancimuzesi.org/en/page/exhibitions/sakip-sabanci-kutlug-ataman)
