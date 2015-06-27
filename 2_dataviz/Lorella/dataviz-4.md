@@ -14,7 +14,7 @@ Il risultato erano una serie di vettori divergenti, con stesso punto di applicaz
 ![01](http://i.imgur.com/G3EZ2Q2.png?1)
 
 Per approfondimenti, si rimanda alla Visualizzazione 1 in 
-[Dataviz-1](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/dataviz-1.md).
+[Dataviz-1](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/Lorella/dataviz-1.md).
 
 --
 
@@ -70,7 +70,7 @@ A quanto pare il microfono del mio portatile è abbastanza sensibile al **rumore
 al sottofondo sonoro**, cosa che lascia ben sperare per un futuro Dataphys basato proprio su questi aspetti.
 
 Ecco il 
-[link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-1-modified.pde) 
+[link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/Lorella/sketch-progress/riferimento-1.pde) 
 allo sketch di riferimento 1 modificato in base alle mie necessità, creando la reattività al suono di una forma. Qui inveve un [video](https://www.dropbox.com/s/d9yj23ldlfkr1cr/riferimento-1.wmv?dl=0) esplicativo.
 
 #####SKETCH RIFERIMENTO 2
@@ -81,7 +81,7 @@ rappresenta originalmente
 >"_one roatating circle followed by a trail of other circles_"
 
 come ci dice il suo creatore. Io l'ho adattato alle necessità del mio caso ed ho ottenuto una specie di lancetta senza riferimento temporale. Mi interessavano qui il mix di incrementabilità dell'angolo di rotazione, l'offset di spostamento rotazionale e la gestione della velocità. Ecco il 
-[link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-2-modified.pde) allo sketch modificato ed un
+[link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/Lorella/sketch-progress/riferimento-2-modified.pde) allo sketch modificato ed un
 [video](https://www.dropbox.com/s/dkedorxbgg6yq2a/riferimento-2.wmv?dl=0) esplicativo sulla "lancetta senza tempo".
 
 --
@@ -95,7 +95,7 @@ si rigenera. Giocando con l'opacità del background si provoca un effetto
 confrontare ciò che ascolta/ha appena ascoltato con ciò che vede/ha appena visto, insegnadogli a leggere la grammatica 
 della rappresentazione (relazione rumore-raggio, relazione spessore raggio-intensità rumore).
 
-Ecco il [link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/dataviz-4.pde) allo sketch sviluppato. Di seguito alcuni video sul funzionamento software:
+Ecco il [link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/Lorella/sketch-progress/dataviz-4.pde) allo sketch sviluppato. Di seguito alcuni video sul funzionamento software:
 
 [Video-1](https://www.dropbox.com/s/bzrip8jt0i2mkku/video-1.wmv?dl=0) - sensibilità al suono - 1
 
@@ -112,6 +112,9 @@ Osservando vari casi di visualizzazione si potrebbe arrivare a definire con che 
 
 #####ERRATA CORRIGE
 
+Grazie al contributo del collaboratore didattico ho capito che quel che veniva immesso nello sketch non era l'intensità ma il valore relativo ad una frequenza. Quindi ho semplicemente sostituito all'interno dello sketch l'input. Un'altra questione da risolvere è stato lo smoothing; con ciò intendo che i valori percepiti ad ogni secondo dallo sketch erano istantanei, puntuali, non indicativi di un lasso di tempo. Per migliorare la cosa si è dovuto "inscatolare" sessanta valori al secondo in un Array per poi poterne comunicare la media, secondo dopo secondo secondo, alla visualizzazione.
+
+Di qui in avanti il lavoro ha riguardato la comunicazione fra lo sketch di visualizzazione e la scheda di prototipazione rapida Arduino Uno, per arrivare ad un prototipo fisico.
 
 
 
